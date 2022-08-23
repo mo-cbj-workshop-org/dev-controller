@@ -1,0 +1,4 @@
+variables:
+- team: mo-cbj-workshop-org
+- admin-user: mogoiadr-admin
+- manager-user: mogoiadr
